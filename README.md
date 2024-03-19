@@ -4,9 +4,10 @@
 
 My Crypto wallet:
 
-trc:
+- trc:
 TJsCTEPM65soEe7aPPRVP5P7efWU3LwuWC
-bep:
+
+- bep:
 0x58dCBD305D69d46D2E9Da8095132cCBB9Bbb4107
 
 
