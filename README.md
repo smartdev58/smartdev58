@@ -6,7 +6,3 @@
 smartdev58/smartdev58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-My Wallet address:
-
-Accept only USDT, ERC20: 0x4ddf4a96cb1646c4967a9748d2d6acbb2de550bf
